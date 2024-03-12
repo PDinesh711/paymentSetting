@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zClpBPdnInLgZ60sp+5DyKn4eG//AKwTjNZ9NfGZ5fs=",
+  "Source": "PaymentSetting",
+  "BasePath": "_content/PaymentSetting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
